@@ -85,6 +85,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BrowserHost.cs" />
+    <Compile Include="Pages\Article\ArticlePage.cs" />
+    <Compile Include="Pages\Article\ArticlePageAsserter.cs" />
+    <Compile Include="Pages\Article\ArticlePageMaps.cs" />
+    <Compile Include="Pages\BasePage.cs" />
     <Compile Include="UITests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

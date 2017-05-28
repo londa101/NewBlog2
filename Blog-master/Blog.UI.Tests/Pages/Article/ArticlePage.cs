@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace Blog.Pages.Article
+namespace Blog.UI.Tests.Pages.Article
 {
     public partial class ArticlePage : BasePage
     {

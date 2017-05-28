@@ -3,7 +3,7 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.Configuration;
 
-namespace Blog.Pages
+namespace Blog.UI.Tests.Pages
 {
     public class BasePage
     {
